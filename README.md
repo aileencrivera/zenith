@@ -1,6 +1,6 @@
 **Zenith: Stratospheric Balloon Communication Systems**
 
-A project for apex.hackclub.com by Aileen Rivera and help from Benjamin Faershtein and Aiden Paul
+A project for apex.hackclub.com by Aileen Rivera with help from Benjamin Faershtein and Aiden Paul
 
 **Abstract**
 This research investigates the feasibility of deploying decentralized LoRa mesh networks at stratospheric altitudes to extend emergency communication capabilities beyong traditional terrestrial limitations. Through rigorous analysis of RF propagation characteristics, network topology optimization, and environmental factor correlations, this project aims to validate theoretical models for near-space mesh networking while establishing practical frameworks for rapid-deployment emergency communication systems.

@@ -10,7 +10,7 @@ Critical infrastructure failures during natural disasters consistently demonstra
 
 Traditional amateur radio emergency networks, while resilient are constrained by line-of-sight limitations and terrain obstacles. Satellite communication systems, though effective, require substantial infrastructure investments and often suffer from capacity limitations during widespread emergencies.
 
-Research Question: Can stratospheric LoRa mesh networks provide a cost-effective, rapidly-deployable solution for emergency communications that bridges the gap between terrestrial amateur radio and satellite systems?
+**Research Question**: Can stratospheric LoRa mesh networks provide a cost-effective, rapidly-deployable solution for emergency communications that bridges the gap between terrestrial amateur radio and satellite systems?
 
 **Theoretical Framework & Hypotheses**
 **Primary Hypothesis**

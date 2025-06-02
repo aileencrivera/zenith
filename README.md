@@ -3,7 +3,7 @@
 A project for apex.hackclub.com by Aileen Rivera with help from Benjamin Faershtein
 
 **Abstract**
-This research investigates the feasibility of deploying decentralized LoRa mesh networks at stratospheric altitudes to extend emergency communication capabilities beyong traditional terrestrial limitations. Through rigorous analysis of RF propagation characteristics, network topology optimization, and environmental factor correlations, this project aims to validate theoretical models for near-space mesh networking while establishing practical frameworks for rapid-deployment emergency communication systems.
+This research investigates the feasibility of deploying decentralized LoRa mesh networks at stratospheric altitudes to extend emergency communication capabilities beyond traditional terrestrial limitations. Through rigorous analysis of RF propagation characteristics, network topology optimization, and environmental factor correlations, this project aims to validate theoretical models for near-space mesh networking while establishing practical frameworks for rapid-deployment emergency communication systems.
 
 **Research Motivation & Problem Statement**
 Critical infrastructure failures during natural disasters consistently demonstrate the vulnerability of centralized communication networks. The 2011 Tōhoku earthquake, Hurricane Maria's impact on Puerto Rico, and recent wildfire communications blackouts highlight a persistent challenge: when commerical networks fail, communities become isolated precisely when coordination is most critical.

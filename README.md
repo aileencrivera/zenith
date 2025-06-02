@@ -3,7 +3,7 @@
 A project for apex.hackclub.com by Aileen Rivera with help from Benjamin Faershtein
 
 **Abstract**
-This research investigates the feasibility of deploying decentralized LoRa mesh networks at stratospheric altitudes to extend emergency communication capabilities beyong traditional terrestrial limitations. Through rigorous analysis of RF propagation characteristics, network topology optimization, and environmental factor correlations, this project aims to validate theoretical models for near-space mesh networking while establishing practical frameworks for rapid-deployment emergency communication systems.
+This research investigates the feasibility of deploying decentralized LoRa mesh networks at stratospheric altitudes to extend emergency communication capabilities beyond traditional terrestrial limitations. Through rigorous analysis of RF propagation characteristics, network topology optimization, and environmental factor correlations, this project aims to validate theoretical models for near-space mesh networking while establishing practical frameworks for rapid-deployment emergency communication systems.
 
 **Research Motivation & Problem Statement**
 Critical infrastructure failures during natural disasters consistently demonstrate the vulnerability of centralized communication networks. The 2011 Tōhoku earthquake, Hurricane Maria's impact on Puerto Rico, and recent wildfire communications blackouts highlight a persistent challenge: when commerical networks fail, communities become isolated precisely when coordination is most critical.
@@ -30,7 +30,7 @@ LoRa Transceiver: Semtech SX1262 (configurable spreading factors SF7-SF12)
 GNSS Module: u-blox ZOE-M8Q with high-altitude flight mode capability
 Environmental Sensing: Integrated temperature, pressure, humidity, and air quality monitoring
 
-**Power Managmenet Optimization**
+**Power Managemenet Optimization**
 Power is always the limiting factor in balloon payloads:
 
 LoRa radio: ~20 mA during transmission (13 dBm output), 0.2 µA standby

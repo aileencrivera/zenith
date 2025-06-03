@@ -30,7 +30,7 @@ LoRa Transceiver: Semtech SX1262 (configurable spreading factors SF7-SF12)
 GNSS Module: u-blox ZOE-M8Q with high-altitude flight mode capability
 Environmental Sensing: Integrated temperature, pressure, humidity, and air quality monitoring
 
-**Power Managemenet Optimization**
+**Power Management Optimization**
 Power is always the limiting factor in balloon payloads:
 
 LoRa radio: ~20 mA during transmission (13 dBm output), 0.2 µA standby
